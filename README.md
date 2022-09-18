@@ -23,6 +23,8 @@ https://housepriceprediction1223.herokuapp.com/
 
 
 # Dataset Characteristics
+  
+  - Dataset used : https://www.kaggle.com/code/shreayan98c/boston-house-price-prediction
 
  Number of Instances: 506 
 
